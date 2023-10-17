@@ -2,13 +2,16 @@
 # Contributors
 
 - [Vidhi Jain](https://github.com/vidhijain27)
-- [Avinash S]](https://github.com/Hunter305)
+- [Avinash S](https://github.com/Hunter305)
 - [Alom Jaiswal](https://github.com/alom2407)
+- [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
+- [Dedan Okware](https://github.com/SoftCysec)
 - [David Saruni](https://github.com/DavidSaruni)
 - [marshal1244]
+- [Michael Wekesa](https://github.com/wekesa360)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
 - [Eaglesight02](https://github.com/Eaglesight02)
@@ -2293,6 +2296,7 @@ Nikhil R
 - [Atakan Pars](https://github.com/AP9747)
 - [Kiran Aziz](https://github.com/kiranaziz)
 - [Ben] (https://github.com/ben-253)
+- [Chris Cowan](https://github.com/ChrisC5891)
 - [Chris Chen](https://github.com/chrisVCH)
 - [Chris Cowan](https://github.com/ChrisC5891)
 - [Jana Hafez](https://github.com/JanaHafez1)
