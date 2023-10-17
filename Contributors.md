@@ -1,6 +1,7 @@
 
 # Contributors
-  
+
+- [Job Keter](https://github.com/CAPTAIN-JOB)
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
@@ -13,6 +14,7 @@
 - [David Saruni](https://github.com/DavidSaruni)
 - [marshal1244]
 - [Michael Wekesa](https://github.com/wekesa360)
+- [Suru](https://github.com/sureshp820)
 - [job mbugua](https://github.com/mbugua97)
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
