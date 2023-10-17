@@ -7,6 +7,7 @@
 - [Saurabh Tajane] (https://github.com/saurabh7nt)
 - [bos54rus] (https://github.com/bos54rus)
 - [Jaganath G](https://github.com/Jagan0901)
+- [David Saruni](https://github.com/DavidSaruni)
 - [marshal1244]
 - [RubynathanN](https://github.com/NRUBYNATHAN)
 - [ZikaZaki](https://github.com/ZikaZaki)
